@@ -12,5 +12,5 @@ function happyHolidayTo(holiday, personName){
 }
 
 function holidayCountdown(holidayName, remDays){
-  return `It's ${remDays} days until ${holidayName}`;
+  return `It's ${remDays} days until ${holidayName}!`;
 }
